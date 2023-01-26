@@ -13,3 +13,7 @@ winget install -e --id Microsoft.PowerShell
 winget install -e --id TeamViewer.TeamViewer
 winget install -e --id GIMP.GIMP
 winget install -e --id Microsoft.Teams
+winget install -e --id Microsoft.BingWallpaper
+winget install -e --id Famatech.AdvancedIPScanner
+
+wsl --install
