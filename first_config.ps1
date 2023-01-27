@@ -17,3 +17,7 @@ winget install -e --id Microsoft.BingWallpaper
 winget install -e --id Famatech.AdvancedIPScanner
 
 wsl --install
+
+# https://christitus.com/everything-toolbar/
+winget install voidtools.Everything
+winget install stnkl.EverythingToolbar
