@@ -15,9 +15,6 @@ winget install -e --id GIMP.GIMP
 winget install -e --id Microsoft.Teams
 winget install -e --id Microsoft.BingWallpaper
 winget install -e --id Famatech.AdvancedIPScanner
+winget install -e --id TrackerSoftware.PDF-XChangeEditor
 
 wsl --install
-
-# https://christitus.com/everything-toolbar/
-winget install voidtools.Everything
-winget install stnkl.EverythingToolbar
