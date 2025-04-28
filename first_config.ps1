@@ -1,6 +1,6 @@
 winget install -e --id 9PM5VM1S3VMQ --accept-package-agreements #Mozilla.Thunderbird
 winget install -e --id Google.Chrome
-winget install -e --id 9N8G7TSCL18R #M2Team.NanaZip
+winget install -e --id 9N8G7TSCL18R --accept-package-agreements #M2Team.NanaZip
 winget install -e --id Telegram.TelegramDesktop
 winget install -e --id 9NKSQGP7F2NH --accept-package-agreements #WhatsApp
 winget install -e --id Synology.DriveClient
@@ -10,6 +10,8 @@ winget install -e --id 9PNSJCLXDZ0V --accept-package-agreements #GIMP
 winget install -e --id Famatech.AdvancedIPScanner
 winget install -e --id TrackerSoftware.PDF-XChangeEditor
 winget install -e --id VB-Audio.Voicemeeter
+winget install -e --id HandBrake.HandBrake
+winget install -e --id AppWork.JDownloader
 
 winget install -e --id XP9KHM4BK9FZ7Q --accept-package-agreements  #Microsoft.VisualStudioCode
 winget install -e --id XPDCFJDKLZJLP8 --accept-package-agreements  #Microsoft.VisualStudio.2022.Community
