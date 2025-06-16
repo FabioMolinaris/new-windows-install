@@ -23,5 +23,6 @@ winget install -e --id XP8BT8DW290MPQ --accept-package-agreements  #Microsoft.Te
 winget install -e --id 9WZDNCRFJBH4 --accept-package-agreements #Microsoft Photos
 winget install -e --id 9WZDNCRFHVN5 --accept-package-agreements #Windows Calculator
 winget install -e --id 9MSMLRH6LZF3 --accept-package-agreements #Windows Notepad
+winget install -e --id 9NCBCSZSJRSB --accept-package-agreements #Spotify
 
 wsl --install
